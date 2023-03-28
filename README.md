@@ -4,6 +4,6 @@
 
 ⚡ Search Field/Deleting and Adding Contacts
 
-⚡ Used NanoID
+⚡ Used NanoID, PropTypes
 
 ![](https://media.giphy.com/media/CkISXfgTSLTmZUOwJE/giphy.gif)
